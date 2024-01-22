@@ -1,0 +1,65 @@
+
+h1{
+  font-style: italic;
+  font-size:70px;
+  text-align: center;
+  color: #f2aa4cFF;
+}
+.sheri{
+  float: right;
+  margin-top: 13%;
+  margin-right: 15%;
+display: block;
+
+  height: 300px;
+  width: 300px;
+}
+body{
+  background-color:tan;
+}
+.btn{
+  background-color: tan; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 8px 12px;
+  cursor: pointer;
+}
+
+.name{
+  text-align: center;
+  margin-right: 25%;
+  margin-top: 15%;
+  color:#333;
+}
+#btn{
+  float: right;
+  padding-top: 15px;
+ padding-right: 20px;
+ font-size: medium;
+ background-color: tan;
+ border: none;
+}
+.kaja{
+  color: black;
+}
+#dark{
+  float: right;
+  padding-top: 15px;
+ padding-right: 25px;
+ font-size: medium;
+ background-color: tan;
+ border: none;
+}
+
+  
+  
+
+
+
+
+
